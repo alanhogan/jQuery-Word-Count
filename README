@@ -1,0 +1,8 @@
+A simple way to get the status of a textarea and update the innerHTML of another element.
+
+Example:
+
+/*Apply*/
+jQuery(document).ready(function() { 
+	jQuery('#lifeStory').wordCount({counterElement:"lifeStoryCount"});
+});

@@ -1,10 +1,13 @@
 /*
  * 
  * Textarea Word Count Jquery Plugin 
- * Version 1.0
+ * Version 1.1.0
  * 
  * Copyright (c) 2008 Roshan Bhattarai
- * website : http://roshanbh.com.np
+ * website: http://roshanbh.com.np
+ * 
+ * Improved by Alan Hogan, 2009.
+ * website: http://alanhogan.com 
  * 
  * Dual licensed under the MIT and GPL licenses:
  * http://www.opensource.org/licenses/mit-license.php
